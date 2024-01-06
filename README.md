@@ -1,4 +1,4 @@
-### Hello Word, sou Jhon Santos👋
+### Hello World Hello,sou Jhon Santos
 ![JhonDevLuiz GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonDeVLuiz&show_icons=true&theme=dark)
 ### Tecnologias utilizada por mim
 ![image](https://github.com/JhonDeVLuiz/jhonDevLuiz/assets/144574685/9f6a418c-9198-4dc9-b3e6-7d78a4ade401)
