@@ -1,5 +1,5 @@
 ### Hello World,sou Jhon Santos👋
-[![Jhonluck100](https://img.shields.io/badge/Jhonluck100-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonluck100/)
+[![Jhonluck100](https://img.shields.io/badge/Jhonluck100-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhon_luck100/)
 
 ![JhonDevLuiz GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonDeVLuiz&show_icons=true&theme=dark)
 ### Tecnologias utilizada por mim
