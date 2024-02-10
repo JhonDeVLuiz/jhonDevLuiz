@@ -1,6 +1,5 @@
 ### Hello World,sou Jhon Santos👋
 [![Jhonluck100](https://img.shields.io/badge/Jhonluck100-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhon_luck100/)
-![image](https://github.com/JhonDeVLuiz/jhonDevLuiz/assets/144574685/f802bf8c-e2fd-4bca-aa66-f5c26f0a059c)](
 
 
 ![JhonDevLuiz GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonDeVLuiz&show_icons=true&theme=dark)
